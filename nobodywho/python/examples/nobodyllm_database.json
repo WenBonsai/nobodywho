@@ -1,0 +1,26 @@
+{
+  "washed": {
+    "flavor": ["clean", "bright", "acidic"],
+    "brew_adjustments": {
+      "grind": "slightly finer",
+      "temperature": "higher (94-96°C)",
+      "note": "push extraction to highlight clarity"
+    }
+  },
+  "natural": {
+    "flavor": ["fruity", "sweet", "heavy"],
+    "brew_adjustments": {
+      "grind": "slightly coarser",
+      "temperature": "lower (90-94°C)",
+      "note": "avoid over-extraction to prevent muddiness"
+    }
+  },
+  "honey": {
+    "flavor": ["sweet", "balanced", "round"],
+    "brew_adjustments": {
+      "grind": "medium",
+      "temperature": "92-95°C",
+      "note": "balanced extraction works best"
+    }
+  }
+}
